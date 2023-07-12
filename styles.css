@@ -35,5 +35,6 @@ header {
 .headings {
     color: blue;
     font-family: cursive;
-    font-weight:bolder;
-    }
+    font-weight: bolder;
+    color: green;
+}
